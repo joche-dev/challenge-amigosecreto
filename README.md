@@ -6,10 +6,12 @@ Este proyecto es una aplicación web sencilla para organizar el juego del "Amigo
 Desarrollar una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
 ## ⚙️ Funcionalidades
-- **➕ Agregar nombres:** Los usuarios pueden escribir el nombre de un amigo en un campo de texto y agregarlo a una lista visible haciendo clic en el botón "Adicionar".
-- **⚠️ Validar entrada:** Si el campo de texto está vacío, el programa muestra una alerta pidiendo un nombre válido.
-- **👀 Visualizar la lista:** Los nombres ingresados aparecen en una lista debajo del campo de entrada.
-- **🎲 Sorteo aleatorio:** Al hacer clic en el botón "Sortear Amigo", se selecciona aleatoriamente un nombre de la lista y se muestra en la página.
+- ** Agregar nombres:** Los usuarios pueden escribir el nombre de un amigo en un campo de texto y agregarlo a una lista visible, haciendo clic en el botón "Añadir".
+- ** Editar nombres:** Los usuarios pueden modificar el nombre de un amigo ya ingresado a la lista, haciendo clic en el botón "Editar".
+- ** Eliminar nombres:** Los usuarios pueden borrar el nombre de un amigo ya ingresado a la lista, haciendo clic en el botón "Eliminar".
+- ** Validar entrada:** Si el campo de texto está vacío, el programa muestra una alerta pidiendo un nombre válido.
+- ** Visualizar la lista:** Los nombres ingresados aparecen en una lista debajo del campo de entrada.
+- ** Sorteo aleatorio:** Al hacer clic en el botón "Sortear Amigo", se selecciona aleatoriamente un nombre de la lista y se muestra en la página.
 
 ## 🗂️ Estructura del proyecto
 - `index.html`: Estructura principal de la página web.
